@@ -1,7 +1,160 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ads>
+  <ad id="hobby-440">
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
+    <headline>Campingvogn - Hobby de luxe 440 1998</headline>
+    <text>Dobbeltseng, Køleskab, Varmtvand, Toiletrum, Cassettetoilet, Serviceklap, Rullegardiner, Varme, Stabilistor, Stor tagluge - Vognen står i Struer.</text>
+    <price>29900</price>
+    <type>Sælges</type>
+    <link>https://viborg-caravancenter.dk/campingvogne/hobby-440</link>
+    <category>/camping/campingvogn</category>
+    <images>
+      <image>https://framerusercontent.com/images/vYRnuDsmSU46NT8oB6UpKCz4HSc.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/DvKyy2UvPGiPbsDdgRoS8eHseRU.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/ETd1t6cVz2GbvEWhg5y1XJmrReU.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/QY49WYvvI5HiHA3EoaUEJFbGQ3c.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/Ct2Hrskj0ArcZvR3EUwxrCq7f0.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/k33byoQ6AQhpP6eoZzjCWGNEbjM.jpg?width=1440&amp;height=1920</image>
+    </images>
+    <categoryfields>
+      <maerke>Hobby</maerke>
+      <model>Hobby</model>
+      <modelvariant>Hobby de luxe 440 1998</modelvariant>
+      <argang>1998</argang>
+      <totalvaegt>1200</totalvaegt>
+      <egenvaegt>950</egenvaegt>
+      <varens-stand>God, men brugt</varens-stand>
+    </categoryfields>
+  </ad>
+  <ad id="hobby-prestige-560-ul-2014">
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
+    <headline>Campingvogn - Hobby Prestige 560 UL 2014</headline>
+    <text>Enkeltsenge, Højt køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Centralvarme, Gulvvarme, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, Serviceklap, Stabilisator, Mover - Vognen står i Struer.</text>
+    <price>132900</price>
+    <type>Sælges</type>
+    <link>https://viborg-caravancenter.dk/campingvogne/hobby-prestige-560-ul-2014</link>
+    <category>/camping/campingvogn</category>
+    <images>
+      <image>https://framerusercontent.com/images/mUnNTgjpGJAErn4XgWaSKjX1ao.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/4hl5GltjKGouVczLwbzT0RVQSA.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/U1YhjJ1tMockalA3ooG42xXEog.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/4fxgcuNh53ntoR94itisKD26EY.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/mXVdSBxRlo9dj2ABFl4VLSf4Jk.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/vIcx0ziZjuzPgFDvOMzqKCdNjdU.jpg?width=1440&amp;height=1920</image>
+    </images>
+    <categoryfields>
+      <maerke>Hobby</maerke>
+      <model>Hobby</model>
+      <modelvariant>Hobby Prestige 560 UL 2014</modelvariant>
+      <argang>2014</argang>
+      <totalvaegt>1750</totalvaegt>
+      <egenvaegt>1433</egenvaegt>
+      <varens-stand>God, men brugt</varens-stand>
+    </categoryfields>
+  </ad>
+  <ad id="knaus-azur-500-tf-2000">
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
+    <headline>Campingvogn - Knaus Azur 500 TF 2000</headline>
+    <text>Dobbeltseng, Køleskab, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gulvvarme, Kantsyet tæppe, Rullegardiner, Cassettegardiner, Fluenetsdør, Varme, gas + el, Stabilisator, Stor tagluge, Mover - Vognen kan nedvejes til 1300 eller 1400 kg. Vognen står i Struer.</text>
+    <price>49900</price>
+    <type>Sælges</type>
+    <link>https://viborg-caravancenter.dk/campingvogne/knaus-azur-500-tf-2000</link>
+    <category>/camping/campingvogn</category>
+    <images>
+      <image>https://framerusercontent.com/images/GkGoHaF5MORWYcfY6TBn5KflAA8.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/DGpiTz4WNrEvBT0vwgELszDtQ.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/M4u5LkXYZK7xx5FbmTVc1aY4GRc.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/rI99Zvncdr5ghJc6kHBllGzO2c.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/CkKDrEHG6rMvStFVoXBBEryu9Lw.jpg?width=1440&amp;height=1920</image>
+    </images>
+    <categoryfields>
+      <maerke>Knaus</maerke>
+      <model>Knaus</model>
+      <modelvariant>Knaus Azur 500 TF 2000</modelvariant>
+      <argang>2000</argang>
+      <totalvaegt>1500</totalvaegt>
+      <egenvaegt>1125</egenvaegt>
+      <varens-stand>God, men brugt</varens-stand>
+    </categoryfields>
+  </ad>
+  <ad id="bürstner-club-420-tm-1990">
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
+    <headline>Campingvogn - Bürstner Club 420 TM 1990</headline>
+    <text>Dobbeltseng, Køleskab, Cassettetoilet, Gardiner, Rullegardiner, Serviceklap, Nyt letvægtsfortelt - Vognen er lige gas og fugttestet. Vognen står i Struer.</text>
+    <price>19900</price>
+    <type>Sælges</type>
+    <link>https://viborg-caravancenter.dk/campingvogne/bürstner-club-420-tm-1990</link>
+    <category>/camping/campingvogn</category>
+    <images>
+      <image>https://framerusercontent.com/images/LTxyVE2xyC3WLVnYCXI6ZMzaVg.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/OzvUP1SproSvVu6ftnn3rMH96H0.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/1UGgzWC35F7XlgLHRqODhGqoYNg.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/IynqMUxSwXUZdQaKe0yLVLntq0.jpg?width=1440&amp;height=1920</image>
+      <image>https://framerusercontent.com/images/bOo7eygu6wsrxv8SWssFBmphM.jpg?width=1440&amp;height=1920</image>
+    </images>
+    <categoryfields>
+      <maerke>Bürstner</maerke>
+      <model>Bürstner</model>
+      <modelvariant>Bürstner Club 420 TM 1990</modelvariant>
+      <argang>1990</argang>
+      <totalvaegt>900</totalvaegt>
+      <egenvaegt>750</egenvaegt>
+      <varens-stand>God, men brugt</varens-stand>
+    </categoryfields>
+  </ad>
+  <ad id="hobby-de-luxe-560-kmfe">
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
+    <headline>Campingvogn - Hobby DE LUXE 560 KMFe 2017</headline>
+    <text>Dobbeltseng, Køjer, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Elektrisk gulvvarme, Cassettegardiner, Fluenetsdør, Stor tagluge, TV-antenne, Stabilisator, Serviceklap - Reg. 1. gang: 3-10-2017 Siddepladser: 4 Sovepladser: 6 Nedsat fra kr. 164.900,- Vognen står i Struer.</text>
+    <price>164900</price>
+    <type>Sælges</type>
+    <link>https://viborg-caravancenter.dk/campingvogne/hobby-de-luxe-560-kmfe</link>
+    <category>/camping/campingvogn</category>
+    <images>
+      <image>https://framerusercontent.com/images/x1kQyeafegdq9uImrsIXxHcUo.jpg?width=880&amp;height=660</image>
+      <image>https://framerusercontent.com/images/Yo0IbcSGgsKi3J4IQCqJNAzpQ4.jpg?width=880&amp;height=660</image>
+      <image>https://framerusercontent.com/images/5cRk410etmruk9cKylhq0WN16wk.jpg?width=880&amp;height=660</image>
+      <image>https://framerusercontent.com/images/YbZprgseloBVsSXg4NuEURuvqI.jpg?width=880&amp;height=660</image>
+      <image>https://framerusercontent.com/images/DgC26k8iQX6bCtlpQtP1XaVlZ7o.jpg?width=880&amp;height=660</image>
+    </images>
+    <categoryfields>
+      <maerke>Hobby</maerke>
+      <model>Hobby</model>
+      <modelvariant>Hobby DE LUXE 560 KMFe 2017</modelvariant>
+      <argang>2017</argang>
+      <totalvaegt>1750</totalvaegt>
+      <egenvaegt>1400</egenvaegt>
+      <varens-stand>God, men brugt</varens-stand>
+    </categoryfields>
+  </ad>
+  <ad id="knaus-südwind-590-fus-2014">
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
+    <headline>Campingvogn - Knaus Südwind 590 FUS 2014</headline>
+    <text>Fransk seng, Køleskab, Fransk seng, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Gulvvarme, Truma ultra heat, Køleskab, Cassette gardiner, Rullegardiner, Fluenetsdør, Stor tagluge, TV - antenne, Alufælge, Stabilisator, Serviceklap - Vognen kan nedvejes. Velholdt vogn med stor fransk dobbeltseng, stor siddegruppe og stort køleskab. Vognen står i Struer.</text>
+    <price>129900</price>
+    <type>Sælges</type>
+    <link>https://viborg-caravancenter.dk/campingvogne/knaus-südwind-590-fus-2014</link>
+    <category>/camping/campingvogn</category>
+    <images>
+      <image>https://framerusercontent.com/images/J72SX2g7pq4geSulGE4UmIHxzYs.jpeg?width=480&amp;height=640</image>
+      <image>https://framerusercontent.com/images/ByNnk4pSjXPoKs1pgwSdfTOdO5Y.jpeg?width=480&amp;height=640</image>
+      <image>https://framerusercontent.com/images/KufN9SaS4mcoCqoTAOeiljrKoY.jpeg?width=480&amp;height=640</image>
+      <image>https://framerusercontent.com/images/sswI5lTQ3gZIecJoDzuYjh4B3kk.jpeg?width=480&amp;height=640</image>
+      <image>https://framerusercontent.com/images/VfTxvYG0tDypI5Ld8CCoXceolI.jpeg?width=480&amp;height=640</image>
+      <image>https://framerusercontent.com/images/0QwDMjXisoaO2eCISY31ayvDs.jpeg?width=480&amp;height=640</image>
+    </images>
+    <categoryfields>
+      <maerke>Knaus</maerke>
+      <model>Knaus</model>
+      <modelvariant>Knaus Südwind 590 FUS 2014</modelvariant>
+      <argang>2014</argang>
+      <totalvaegt>1700</totalvaegt>
+      <egenvaegt>1340</egenvaegt>
+      <varens-stand>God, men brugt</varens-stand>
+    </categoryfields>
+  </ad>
   <ad id="adria-action-361-lh">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Adria Action 361 LH 2014</headline>
     <text>Enkeltsenge, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, Stabilisator, Serviceklap x 2, Alufælge, Fortelt - Velholdt lille rejsevogn med fortelt, stabilisator og klap ind i siden af vognen i begge sider. Fremstår som ny. Vognen står i Struer.</text>
     <price>119900</price>
@@ -27,7 +180,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-de-luxe-540-ul-2026">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby de luxe 540 UL 2026</headline>
     <text>Høj køleskab, Toilet, Gulvvarme, Fluenetsdør, Stor tagluge, Stabilisator, Vandvarmer, TV-beslag, Serviceklap - Kan nedvejes. Vognen står i Mønsted.</text>
     <price>247900</price>
@@ -51,7 +204,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-excellent-edition-540-uff-2026">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby Excellent edition 540 UFF 2026</headline>
     <text>Høj køleskab, Varme, Gulvvarme, Toilet, Stor tagluge, Stabilisator, Serviceklap, Vandvarmer, TV-beslag - Vognen kan opvejes. Vognen står i Mønsted.</text>
     <price>273900</price>
@@ -75,7 +228,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-de-luxe-460-sl-2026">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby de luxe 460 SL 2026</headline>
     <text>Høj køleskab, Toilet, Gulvvarme, Varme, Stor tagluge, Stabilisator, Serviceklap, TV-beslag, Vandvarmer, Fluenetsdør - Vogne kan opvejes. Vognen står i Mønsted.</text>
     <price>244900</price>
@@ -98,7 +251,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-de-luxe-460-ufe-2026">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby de luxe 460 UFe 2026</headline>
     <text>Høj køleskab, Varme, Gulvvarme, Fluenetsdør, Toilet, Tv-beslag, Serviceklap, Vandvarmer, Stor tagluge, Stabilisator - Vognen kan opvejes. Vognen står i Mønsted.</text>
     <price>244900</price>
@@ -121,34 +274,8 @@
       <egenvaegt>1400</egenvaegt>
     </categoryfields>
   </ad>
-  <ad id="knaus-südwind-590-fus-2014">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
-    <headline>Campingvogn - Knaus Südwind 590 FUS 2014</headline>
-    <text>Fransk seng, Køleskab, Fransk seng, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Gulvvarme, Truma ultra heat, Køleskab, Cassette gardiner, Rullegardiner, Fluenetsdør, Stor tagluge, TV - antenne, Alufælge, Stabilisator, Serviceklap - Vognen kan nedvejes. Velholdt vogn med stor fransk dobbeltseng, stor siddegruppe og stort køleskab. Vognen står i Struer.</text>
-    <price>124900</price>
-    <type>Sælges</type>
-    <link>https://viborg-caravancenter.dk/campingvogne/knaus-südwind-590-fus-2014</link>
-    <category>/camping/campingvogn</category>
-    <images>
-      <image>https://framerusercontent.com/images/J72SX2g7pq4geSulGE4UmIHxzYs.jpeg?width=480&amp;height=640</image>
-      <image>https://framerusercontent.com/images/ByNnk4pSjXPoKs1pgwSdfTOdO5Y.jpeg?width=480&amp;height=640</image>
-      <image>https://framerusercontent.com/images/KufN9SaS4mcoCqoTAOeiljrKoY.jpeg?width=480&amp;height=640</image>
-      <image>https://framerusercontent.com/images/sswI5lTQ3gZIecJoDzuYjh4B3kk.jpeg?width=480&amp;height=640</image>
-      <image>https://framerusercontent.com/images/VfTxvYG0tDypI5Ld8CCoXceolI.jpeg?width=480&amp;height=640</image>
-      <image>https://framerusercontent.com/images/0QwDMjXisoaO2eCISY31ayvDs.jpeg?width=480&amp;height=640</image>
-    </images>
-    <categoryfields>
-      <maerke>Knaus</maerke>
-      <model>Knaus</model>
-      <modelvariant>Knaus Südwind 590 FUS 2014</modelvariant>
-      <argang>2014</argang>
-      <totalvaegt>1700</totalvaegt>
-      <egenvaegt>1340</egenvaegt>
-      <varens-stand>God, men brugt</varens-stand>
-    </categoryfields>
-  </ad>
   <ad id="hobby-excellent-560-cfe">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby Excellent 560 CFe 2023 NY</headline>
     <text>Dobbeltseng, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Elektrisk gulvvarme, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, Stabilisator, Serviceklap - Sovepladser: 4                              Siddepladser: 6 Du sparer ialt 25.700,- på denne vogn. Vognen står i Mønsted.</text>
     <price>249900</price>
@@ -173,7 +300,7 @@
     </categoryfields>
   </ad>
   <ad id="knaus-sport-450-fu">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Knaus Sport 450 FU 2011</headline>
     <text>Dobbeltseng, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Cassettegardiner, Fluenetsdør, Stor tagluge, TV-antenne, Serviceklap - Reg. 1. gang     2018 Sovepladser: 4                        Siddepladser: 4 Nedsat fra kr. 108.000,- Vognen står i Mønsted.</text>
     <price>99900</price>
@@ -197,7 +324,7 @@
     </categoryfields>
   </ad>
   <ad id="adria-adora-563-tk">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Adria Adora 563 TK 2009</headline>
     <text>Dobbeltseng, Køjer, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Gasovn m/blæser, Gulvvarme, Aircondition, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, TV-antenne, Fortelt, Mover, Stabilisator, Cykelstativ, Serviceklap - Reg. 1. gang     26-03-2009 Sovepladser: 6                       Siddepladser: 6 Nedsat fra kr. 113.000,- Vognen står i Mønsted.</text>
     <price>109000</price>
@@ -222,7 +349,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-de-luxe-460-sff">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby de luxe 460 SFf 2024 NY</headline>
     <text>Dobbeltseng, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Gasovn m/blæser, Elektrisk gulvvarme, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, Stabilisator - Sovepladser: 4                        Siddepladser: 4 Kan opvejes til 1500 kg Vognen står i Mønsted.</text>
     <price>219900</price>
@@ -248,7 +375,7 @@
     </categoryfields>
   </ad>
   <ad id="bürstner-belcanto-535-tl">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Bürstner Belcanto 535 TL 2008</headline>
     <text>Enkeltsenge, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, TV-antenne, Fortelt - Reg. 1. gang     03-03-2008 Sovepladser: 4                    Siddepladser:4 3 m fortelt Vognen står i Struer.</text>
     <price>84900</price>
@@ -273,7 +400,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-de-luxe-edition-560-kmfe">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby de luxe edition 560 KMFe 2021</headline>
     <text>Dobbeltseng, Køjer, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Elektrisk gulvvarme, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, TV-antenne, Fortelt, Markise, Mover, Stabilisator, Serviceklap - Reg. 1. gang     26-07-2021 Sovepladser: 6                           Siddepladser: 5 Vognen står i Mønsted.</text>
     <price>199900</price>
@@ -299,7 +426,7 @@
     </categoryfields>
   </ad>
   <ad id="knaus-südwind-590-fus-silver-selection">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Knaus Südwind 590 FUS Silver Selection 2016</headline>
     <text>Dobbeltseng, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Elektrisk gulvvarme, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, TV-antenne, Fortelt, Mover, Stabilisator, Serviceklap - Reg. 1. gang     08-08-2016 Sovepladser: 4               Siddepladser: 6 1 ejers vogn med alt i udstyr. Vognen står i Struer.</text>
     <price>169000</price>
@@ -325,7 +452,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-on-tour-390-sf">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby On Tour 390 SF 2024 NY</headline>
     <text>Dobbeltseng, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Gulvvarme, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, Stabilisator, Serviceklap - Sovepladser: 4            Siddepladser: 4 Vognen står i Mønsted.</text>
     <price>179900</price>
@@ -349,7 +476,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-beachy-360">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby Beachy 360 2022 NY</headline>
     <text>Sovepladser: 3        Siddepladser: 6, Teltet til vognen koster kr. 2595,-, Vognen står i Struer.</text>
     <price>99900</price>
@@ -374,7 +501,7 @@
     </categoryfields>
   </ad>
   <ad id="dethleffs-camper-style-490">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Dethleffs Camper Style 490 2011</headline>
     <text>Enkeltsenge, Fast vandtank, Køleskab, Varmt vand, Gulvvarme, Rullegardiner, Fluenetsdør, Toiletrum, Brusebund, Casette toilet, Gasovn med blæser, Stor tagluge, TV antenne, Alu fælge, Stabilisator, Serviceklap, Mover, Fortelt, Markise - Meget velholdt vogn. Vognen står i Struer.</text>
     <price>109900</price>
@@ -400,7 +527,7 @@
     </categoryfields>
   </ad>
   <ad id="kabe-royal-780-tdl">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Kabe Royal 780 TDL 2008</headline>
     <text>Dobbeltseng, Fast vandtank, Køleskab, Ovn, Varmt vand, Toiletrum, Brusebund, Casette toilet, Centralvarme, Gulvvarme, Casettegardiner, Rullegardiner, Fluenetsdør, Stor tagluge, TV-antenne, Alufælge, Serviceklap, Stabilisator, Mover, Markise - Stor luksusvogn med læderindtræk og centralvarme m.m. Super velholdt. Vognen står i Struer.</text>
     <price>174900</price>
@@ -426,7 +553,7 @@
     </categoryfields>
   </ad>
   <ad id="adria-adora-613-ut">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Adria Adora 613 UT 2022</headline>
     <text>Dobbelt seng, Fast Vandtank, Køleskab, Ovn, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Centralvarme, Gulvvarme, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, Serviceklap, Fortelt, Stabilisator, Alufælge, Mover, Markise</text>
     <price>279900</price>
@@ -451,7 +578,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-prestige-610-ul">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby Prestige 610 UL 2013</headline>
     <text>Enkeltsenge, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, TV-antenne, Fortelt, Stabilisator, Serviceklap - Reg. 1. gang     11-12-2014 Sovepladser: 4                    Siddepladser: 6 Nedsat fra kr. 163.000,- Vognen står i Mønsted.</text>
     <price>149900</price>
@@ -476,7 +603,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-560">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby Prestige 560 UL 2011</headline>
     <text>Enkelt senge, Fast vandtank, Køleskab, Varmt vand, Toiletrum, Brusebund, Casette toilet, Gasovn med blæser, Casettegardiner, Rullegardiner, Fluenetsdøt, Stor tagluge, Alufælge, Stabilisator, Serviceklap, Mover, Fortelt - Fin Hobby 560 med enkeltsenge, mover og fortelt. Nedsat fra kr. 114.900,- Vognen står i Struer.</text>
     <price>109900</price>
@@ -500,33 +627,8 @@
       <varens-stand>God, men brugt</varens-stand>
     </categoryfields>
   </ad>
-  <ad id="hobby-de-luxe-560-kmfe">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
-    <headline>Campingvogn - Hobby DE LUXE 560 KMFe 2017</headline>
-    <text>Dobbeltseng, Køjer, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Elektrisk gulvvarme, Cassettegardiner, Fluenetsdør, Stor tagluge, TV-antenne, Stabilisator, Serviceklap - Reg. 1. gang: 3-10-2017 Siddepladser: 4 Sovepladser: 6 Nedsat fra kr. 164.900,- Vognen står i Struer.</text>
-    <price>159900</price>
-    <type>Sælges</type>
-    <link>https://viborg-caravancenter.dk/campingvogne/hobby-de-luxe-560-kmfe</link>
-    <category>/camping/campingvogn</category>
-    <images>
-      <image>https://framerusercontent.com/images/x1kQyeafegdq9uImrsIXxHcUo.jpg?width=880&amp;height=660</image>
-      <image>https://framerusercontent.com/images/Yo0IbcSGgsKi3J4IQCqJNAzpQ4.jpg?width=880&amp;height=660</image>
-      <image>https://framerusercontent.com/images/5cRk410etmruk9cKylhq0WN16wk.jpg?width=880&amp;height=660</image>
-      <image>https://framerusercontent.com/images/YbZprgseloBVsSXg4NuEURuvqI.jpg?width=880&amp;height=660</image>
-      <image>https://framerusercontent.com/images/DgC26k8iQX6bCtlpQtP1XaVlZ7o.jpg?width=880&amp;height=660</image>
-    </images>
-    <categoryfields>
-      <maerke>Hobby</maerke>
-      <model>Hobby</model>
-      <modelvariant>Hobby DE LUXE 560 KMFe 2017</modelvariant>
-      <argang>2017</argang>
-      <totalvaegt>1750</totalvaegt>
-      <egenvaegt>1400</egenvaegt>
-      <varens-stand>God, men brugt</varens-stand>
-    </categoryfields>
-  </ad>
   <ad id="adria-aviva-563-pt">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Adria Aviva 563 PT 2018</headline>
     <text>Dobbeltseng, Køjer, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Rullegardiner, Cassettegardiner, Stor tagluge, Stabilisator, Serviceklap - Fortelt beskrivelse: Kampa Lufttelt 450 Reg. 1. gang: 31-01-2018 Sovepladser: 7                      Siddepladser: 5 Ualmindelig velholdt køjevogn. Nedsat fra kr. 159.000,- Vognen står i Struer.</text>
     <price>154900</price>
@@ -551,7 +653,7 @@
     </categoryfields>
   </ad>
   <ad id="adria-alpina-903-ht-comfort">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Adria Alpina 903 HT / Comfort 2018</headline>
     <text>Dobbeltseng, Køjer, Køleskab, Ovn, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Centralvarme, Gulvvarme, Gulvtæppe, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, TV-antenne, Fortelt, Stabilisator, Serviceklap - Fortelt beskrivelse: Isabella Universal Dawn 420 Reg. 1. gang: 01-06-2018 Sovepladser: 6                      Siddepladser: 8 Nedsat fra kr. 295.000,- Vognen står i Struer.</text>
     <price>274900</price>
@@ -577,7 +679,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-on-tour-460-dl">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby On Tour 460 DL 2024 NY</headline>
     <text>Enkeltsenge, Køleskab, Fast vandtank, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Elektrisk gulvvarme, Rullegardiner, Cassettegardiner, Stor tagluge, Serviceklap - Sovepladser: 4                              Siddepladser: 4 Vognen står i Mønsted.</text>
     <price>199900</price>
@@ -601,7 +703,7 @@
     </categoryfields>
   </ad>
   <ad id="knaus-südwind-500-uf-60-years">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Knaus Südwind 500 UF 60 Years 2023 NY</headline>
     <text>Dobbeltseng, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Elektrisk gulvvarme, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, Alufælge, Stabilisator, Serviceklap - Sovepladser: 4                  Siddepladser: 4 Vognen står i Mønsted.</text>
     <price>224900</price>
@@ -626,7 +728,7 @@
     </categoryfields>
   </ad>
   <ad id="knaus-südwind-scandinavia-selection-580-uf">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Knaus Südwind Scandinavia Selection 580 UF 2023 NY</headline>
     <text>Vognen står i Mønsted.</text>
     <price>289900</price>
@@ -651,7 +753,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-de-luxe-400-sfe">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby de luxe 400 SFe 2024 NY</headline>
     <text>Dobbeltseng, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Gulvvarme, Elektrisk gulvvarme, Cassettegardiner, Fluenetsdør, Stor tagluge, Stabilisator, Serviceklap - Vognen står i Mønsted.</text>
     <price>194900</price>
@@ -677,7 +779,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-maxia-585-ul">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby Maxia 585 UL 2023 NY</headline>
     <text>Enkeltsenge, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Centralvarme, Elektrisk gulvvarme, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, Stabilisator, Serviceklap - Sovepladser: 4                     Siddepladser: 4 Stor aksel, gulvvarme, TV-holder Vognen står i Struer.</text>
     <price>279900</price>
@@ -701,7 +803,7 @@
     </categoryfields>
   </ad>
   <ad id="kabe-safir-600-etdl">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Kabe Safir 600 ETDL 2021</headline>
     <text>Enkeltsenge, Køleskab, Ovn, Fast vandtank, Vandtank på hjul, Varmtvand, Toiletrum, Cassettetoilet, Rullegardiner, Brusebund, Centralvarme, Gulvvarme, Cassettegardiner, Fluenetsdør, Stor tagluge, Alufælge, Stabilisator, Serviceklap, Mover, Cykelstativ - Rigtig fin Kabe 600 ETDL med enkeltsenge, bad og toilet i bagenden, centralvarme, mover m.m. Vognen står i Mønsted.</text>
     <price>339900</price>
@@ -727,7 +829,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-excellent-edition-460-ufe">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby Excellent Edition 460 UFe 2023 NY</headline>
     <text>Dobbeltseng, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Elektrisk gulvvarme, Cassettegardiner, Fluenetsdør, Stor tagluge, Stabilisator, Serviceklap - Sovepladser: 4                      Siddepladser: 4 Stor aksel, gulvvarme, TV-holder Lille bule, derfor nedsat med 10.000,- Vognen står i Struer.</text>
     <price>209900</price>
@@ -751,7 +853,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-de-luxe-460ufe">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby de luxe 460 Ufe 2024 NY</headline>
     <text>Dobbeltseng, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Elektrisk gulvvarme, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, Stabilisator, Serviceklap - Sovepladser: 4                    Siddepladser: 4 Vognen står i Mønsted.</text>
     <price>209900</price>
@@ -775,7 +877,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-de-luxe-460-ufe-2022">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby de luxe 460 UFe 2022 NY</headline>
     <text>Fransk seng, Køleskab, Fast vandtank, Vandtank på hjul, Varmtvand, Toiletrum, Cassettetoilet, Rullegardiner, Brusebund, TV-beslag, Gulvvarme, Cassettegardiner, Fluenetsdør, Stor tagluge, Stabilisator, Serviceklap - Ny vogn, nedsat kr. 15.000,- Vognen står i Struer.</text>
     <price>179900</price>
@@ -800,7 +902,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-de-luxe-460-ufe">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby de luxe 460 UFe 2016</headline>
     <text>Dobbeltseng, Køleskab, Fast vandtank, Varmtvand, Toiletrum, Brusebund, Gasovn m/blæser, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, TV-antenne, Fortelt, Stabilisator, Serviceklap - Reg. 1. gang     10-03-2016 Sovepladser: 4                              Siddepladser: 4 Nedsat fra kr. 135.000,- Vognen står i Struer.</text>
     <price>129900</price>
@@ -824,7 +926,7 @@
     </categoryfields>
   </ad>
   <ad id="wilk-vida-450-2011">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Wilk Vida 450 2011</headline>
     <text>Fransk seng, Køleskab, Vandtank på hjul, Varmt vand, Toiletrum, Cassettetoilet, Brusebund, Varme, Rullegardiner, Cassettegardiner, TV antenne, Stor tagluge, Serviceklap, Fortelt, Stabilisator - Vognen står i Mønsted</text>
     <price>79900</price>
@@ -850,7 +952,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-540-kmfe-2010">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby 540 Kmfe 2010</headline>
     <text>Fransk seng, Køjer, Køleskab, Vandtank på hjul, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, TV antenne, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, Serviceklap, Fortelt, Stabilisator, Aircondition, Kantsyet tæppe, Ultra heat - Vognen står i Mønsted.</text>
     <price>109900</price>
@@ -875,7 +977,7 @@
     </categoryfields>
   </ad>
   <ad id="hobby-460-ufe-de-luxe-edition-2016">
-    <last_updated>2026-05-18T10:56:18Z</last_updated>
+    <last_updated>2026-05-18T14:26:27Z</last_updated>
     <headline>Campingvogn - Hobby 460 ufe de luxe edition 2016</headline>
     <text>Fransk seng, TV antenne, Køleskab, Vandtank på hjul, Varmtvand, Toiletrum, Cassettetoilet, Brusebund, Gasovn m/blæser, Kantsyet tæppe, Rullegardiner, Cassettegardiner, Fluenetsdør, Stor tagluge, Serviceklap, Markise med sider og front, Stabilisator, Mover - Vognen har lidt kosmetiske buler. Vognen står i Mønsted.</text>
     <price>139900</price>
