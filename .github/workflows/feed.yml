@@ -4,6 +4,10 @@ on:
     - cron: '0 * * * *' # Kører hver time
   workflow_dispatch: # Giver dig en knap til at starte den manuelt
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 permissions:
   contents: write
   pages: write
@@ -14,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -35,6 +39,7 @@ jobs:
           git config user.email "github-actions@github.com"
           git add public/feed.xml
           git diff --cached --quiet || git commit -m "Update feed.xml"
+          git pull --rebase --autostash
           git push
 
       - name: Upload Pages artifact
